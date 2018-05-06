@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class EmployeeEurekaServerApplication {
     public static void main(String[] args) {
     	// My first commnt
-    	//My test branch
+    	//My test branch1---with merging
     	SpringApplication.run(EmployeeEurekaServerApplication.class, args);
     }
 }
